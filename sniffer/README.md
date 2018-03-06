@@ -27,4 +27,4 @@ Command line interface (./cli1) supports commands:
 5. stat [iface] (shows all collected statistics for particular interface, if iface omitted -- for all interfaces).
 6. --help (shows this usage information).
 
-If you have questions or ideas for improvment this project, don't hesitate and mail me (alex.and.riaqqq@gmail.com).
+If you have questions or ideas for improvement this project, don't hesitate and mail me (alex.and.riaqqq@gmail.com).
