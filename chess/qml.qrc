@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>strt.qml</file>
+        <file>images/black.svg</file>
+        <file>images/white.svg</file>
+        <file>images/black_bishop.svg</file>
+        <file>images/black_king.svg</file>
+        <file>images/black_knight.svg</file>
+        <file>images/black_pawn.svg</file>
+        <file>images/black_queen.svg</file>
+        <file>images/black_rook.svg</file>
+        <file>images/white_bishop.svg</file>
+        <file>images/white_king.svg</file>
+        <file>images/white_knight.svg</file>
+        <file>images/white_pawn.svg</file>
+        <file>images/white_queen.svg</file>
+        <file>images/white_rook.svg</file>
+        <file>images/brown.svg</file>
+        <file>images/transparent.svg</file>
+        <file>new_main.qml</file>
+        <file>load.qml</file>
+    </qresource>
+</RCC>
