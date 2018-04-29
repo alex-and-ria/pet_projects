@@ -6,7 +6,8 @@
  * selected, selected slave sends confirmation to master (falling edge) adn satrts SPI communication;
  * 3) When slaves data is transferred slave generates rising edge on GPIO pin;
  * 4) DMA is used for communication;
- * 5) SPI interface disabled, reconfigured and new iteration starts.
+ * 5) SPI interface disabled, reconfigured and new iteration starts;
+ * 6) Slave which will be selected by master first should be started last;
  * GPIO,DMA,SPI,PWM;
  * confirmation pin (same for slaves): PA1;
  * SPI pins: PA5 -- SPI1_SCK; PA6 -- SPI1_MISO; PA7 -- SPI1_MOSI;
