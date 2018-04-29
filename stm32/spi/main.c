@@ -11,7 +11,7 @@
  * GPIO,DMA,SPI,PWM;
  * confirmation pin (same for slaves): PA1;
  * SPI pins: PA5 -- SPI1_SCK; PA6 -- SPI1_MISO; PA7 -- SPI1_MOSI;
- * ADC pin: PA0 TIM2_CH1_ETR;
+ * PWM pin: PA0 TIM2_CH1_ETR;
  * DMA: SPI1_RX -- channel 2; SPI1_TX -- channel 3 (dma1);
  */
 
